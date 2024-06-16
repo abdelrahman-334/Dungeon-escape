@@ -1,0 +1,11 @@
+C:\Users\omarn\source\repos\longGame\bin\Debug\longGame.exe.config
+C:\Users\omarn\source\repos\longGame\bin\Debug\longGame.exe
+C:\Users\omarn\source\repos\longGame\bin\Debug\longGame.pdb
+C:\Users\omarn\source\repos\longGame\obj\Debug\longGame.csproj.AssemblyReference.cache
+C:\Users\omarn\source\repos\longGame\obj\Debug\longGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\omarn\source\repos\longGame\obj\Debug\longGame.Form1.resources
+C:\Users\omarn\source\repos\longGame\obj\Debug\longGame.Properties.Resources.resources
+C:\Users\omarn\source\repos\longGame\obj\Debug\longGame.csproj.GenerateResource.cache
+C:\Users\omarn\source\repos\longGame\obj\Debug\longGame.csproj.CoreCompileInputs.cache
+C:\Users\omarn\source\repos\longGame\obj\Debug\longGame.exe
+C:\Users\omarn\source\repos\longGame\obj\Debug\longGame.pdb
